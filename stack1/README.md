@@ -1,7 +1,9 @@
 #### Stack1
 
-Need to write the value 0x61626364 in the "modified" variable
-Write it in little endian, so the hex number is inverse (0x64 0x63 0x62 0x61)
+Need to write the value 0x61626364 in the "modified" variable.
+
+Write it in little endian, so the hex number is inverse (0x64 0x63 0x62 0x61).
+
 You need to fill the buffer first with 64 characters to access the "modified" variable in the stack.
 
 ```bash
